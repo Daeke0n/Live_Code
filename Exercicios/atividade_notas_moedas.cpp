@@ -38,19 +38,19 @@ int main () {
 
 
     cout << "NOTAS: " << endl;
-    cout << d1 << " nota(s) de R$ 100,00 " << endl;
-    cout << d3 << " nota(s) de R$ 50,00 " << endl;
-    cout << d5 << " nota(s) de R$ 20,00 " << endl;
-    cout << d7 << " nota(s) de R$ 10,00 " << endl;
-    cout << d9 << " nota(s) de R$ 5,00 " << endl;
-    cout << d11 << " nota(s) de R$ 2,00 " << endl;
+    cout << d1 << " nota(s) de R$ 100.00 " << endl;
+    cout << d3 << " nota(s) de R$ 50.00 " << endl;
+    cout << d5 << " nota(s) de R$ 20.00 " << endl;
+    cout << d7 << " nota(s) de R$ 10.00 " << endl;
+    cout << d9 << " nota(s) de R$ 5.00 " << endl;
+    cout << d11 << " nota(s) de R$ 2.00 " << endl;
     cout << "MOEDAS: " << endl;
-    cout << d13 << " moeda(s) de R$ 1,00" << endl;
-    cout << m1 << " moeda(s) de R$ 0,50" << endl;
-    cout << m3 << " moeda(s) de R$ 0,25" << endl;
-    cout << m5 << " moeda(s) de R$ 0,10" << endl;
-    cout << m7 << " moeda(s) de R$ 0,05" << endl;
-    cout << m9 << " moeda(s) de R$ 0,01" << endl;
+    cout << d13 << " moeda(s) de R$ 1.00" << endl;
+    cout << m1 << " moeda(s) de R$ 0.50" << endl;
+    cout << m3 << " moeda(s) de R$ 0.25" << endl;
+    cout << m5 << " moeda(s) de R$ 0.10" << endl;
+    cout << m7 << " moeda(s) de R$ 0.05" << endl;
+    cout << m9 << " moeda(s) de R$ 0.01" << endl;
 
 
 
