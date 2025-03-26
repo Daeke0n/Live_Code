@@ -37,14 +37,14 @@ int main () {
     int m10 = m8 % 1;
 
 
-    cout << "NOTAS: " << endl;
-    cout << d1 << " nota(s) de R$ 100.00 " << endl;
-    cout << d3 << " nota(s) de R$ 50.00 " << endl;
-    cout << d5 << " nota(s) de R$ 20.00 " << endl;
-    cout << d7 << " nota(s) de R$ 10.00 " << endl;
-    cout << d9 << " nota(s) de R$ 5.00 " << endl;
-    cout << d11 << " nota(s) de R$ 2.00 " << endl;
-    cout << "MOEDAS: " << endl;
+    cout << "NOTAS:" << endl;
+    cout << d1 << " nota(s) de R$ 100.00" << endl;
+    cout << d3 << " nota(s) de R$ 50.00" << endl;
+    cout << d5 << " nota(s) de R$ 20.00" << endl;
+    cout << d7 << " nota(s) de R$ 10.00" << endl;
+    cout << d9 << " nota(s) de R$ 5.00" << endl;
+    cout << d11 << " nota(s) de R$ 2.00" << endl;
+    cout << "MOEDAS:" << endl;
     cout << d13 << " moeda(s) de R$ 1.00" << endl;
     cout << m1 << " moeda(s) de R$ 0.50" << endl;
     cout << m3 << " moeda(s) de R$ 0.25" << endl;
