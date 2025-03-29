@@ -14,6 +14,6 @@ int main () {
   cout << "Digite o valor da velocidade:" ;
   cin >> v;
 
-  cout << "O valor da energia cinetica e: " << (m * pow (v,2)) /2 << endl;
+  cout << "O valor da energia cinetica e: " << (m * pow(v,2)) /2 << endl;
 
 }
