@@ -28,6 +28,6 @@ int main() {
       break;
   }
 
-  printf("Total: R$ %.2f", total);
+  printf("Total: R$ %.2f\n", total);
 
 }
