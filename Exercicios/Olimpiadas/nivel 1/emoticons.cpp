@@ -11,7 +11,7 @@ int main() {
     int divertido = 0;
     int chateado = 0;
 
-    for (size_t i = 0; i < a.length() -2; i++) {
+    for (int i = 0; i < a.length() -2; i++) {
         if (a.substr(i, 3) == ":-)") {
             divertido++;
         }else if (a.substr(i, 3) == ":-(") {
