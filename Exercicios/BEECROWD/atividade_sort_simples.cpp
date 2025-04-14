@@ -24,7 +24,8 @@ int main () {
     c = temp;
   }
 
-  cout << "\n" << a << "\n" << b << "\n" << c << endl;
-  cout << "\n" << origA << "\n" << origB << "\n" << origC;
+  cout << a << endl << b << endl << c << endl;
+  cout << endl;
+  cout << origA << endl << origB << endl << origC << endl;
 
 }
