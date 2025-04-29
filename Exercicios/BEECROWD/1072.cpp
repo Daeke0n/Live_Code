@@ -15,7 +15,7 @@ int main() {
         if (x >- 10 && x <= 20) {
             in++;
         } else {
-            out++
+            out++;
         }
         //x >= 10 && <= 20 ? in++ : out++;
     }
